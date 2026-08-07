@@ -70,6 +70,6 @@ print(name.replace("a", "t").replace("k", "p"))
 
 print(s.upper().replace("WORLD", "UNIVERSE").capitalize())
 
-        # checking the accidental double spaces in a string 
+                    # checking the accidental double spaces in a string 
 print(s.find("  ")) 
- # returns -1 if no double space is found
+# returns -1 if no double space is found and if found then its some number instead -1
