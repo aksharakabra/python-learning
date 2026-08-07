@@ -1,5 +1,8 @@
 print("Hello, World!")
+# printing a string needs double or single quotes
+print('Hello, World!')
 
+# printing long strings in different lines needs triple quotes
 print('''Twinkle, twinkle, little star,
 How I wonder what you are!
 Up above the world so high,
