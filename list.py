@@ -47,3 +47,23 @@ print(list1)
 list1.reverse()
 print(list1)    
 # reverses the order of the elements in the list.
+
+print(sum(list1))
+# returns the sum of all elements in the list.
+
+                # real use case of list
+
+# program to take input of fruit names from the user and store them in a list.
+fruits=[]
+fruits.append(input("enter the fruit name: "))
+f2= input("enter second fruit name: ")
+fruits.append(f2)
+print(fruits)
+
+# to take marks of students and display in a sorted manner.
+marks=[]
+marks.append(float(input("enter marks of ram: ")))
+marks.append(float(input("enter marks of shyam: ")))
+marks.append(float(input("enter marks of sita: ")))
+marks.sort()
+print(marks)
