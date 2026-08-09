@@ -7,7 +7,7 @@
            </p>
 
 <H3>STRING FUNCTION</H3>
-len("string")
+</p><pre> len("string")
               string.endswith("_")
                                     string.startswith("_")
                                                             string.count("_")
@@ -17,4 +17,4 @@ string.find("_")
                                            string.upper()
                                                            string.lower()
                                                                            string.isalpha()
-string.isdigit()                                                                           
+string.isdigit()</pre></p>                                                                     
