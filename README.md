@@ -21,3 +21,9 @@ string.isdigit()</pre></p>
 
 <h3>ESCAPE SEQUENCE</h3>
 <pre>(\n)  next line       (\t ) tab space      (\\) backslash     (\"_\")  doublequote       (\'_\')  singlequote        (\b)  backspace</pre>
+
+<b>f-string to take input and put it in a print line</b>
+print(f"good morning,{name}")
+
+        <h3> LIST <list3>
+  list are containers to store values of any data type
