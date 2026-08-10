@@ -31,8 +31,8 @@ print(f"good morning,{name}")</pre>
   it is mutable
   it can be sliced like string
 
- <pre> <h3> LIST METHODS </h3>
-  list.append("_")     
+  <h3> LIST METHODS </h3>
+ <pre> list.append("_")     
                   list.insert(2,_)
                                     list.remove(_)
                                                    list.pop()
