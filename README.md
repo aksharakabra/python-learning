@@ -8,8 +8,8 @@
 
 <h3>STRING FUNCTION</h3>
 </p><pre> len("string")
-              string.endswith("_")
-                                    string.startswith("_")
+                    string.endswith("_")
+                                      string.startswith("_")
                                                             string.count("_")
                                                                                string.capatalize()
 string.find("_")
@@ -22,13 +22,21 @@ string.isdigit()</pre></p>
 <h3>ESCAPE SEQUENCE</h3>
 <pre>(\n)  next line       (\t ) tab space      (\\) backslash     (\"_\")  doublequote       (\'_\')  singlequote        (\b)  backspace</pre>
 
-<b>f-string to take input and put it in a print line</b>
-print(f"good morning,{name}")
+<pre><b>f-string to take input and put it in a print line</b>
+print(f"good morning,{name}")</pre>
 
-        <h3> LIST </h3>
+  <h3>LIST</h3>
   list are containers to store values of any data type
   list is heterogenous array
   it is mutable
   it can be sliced like string
 
-  <h3> LIST METHODS </h3>
+ <pre> <h3> LIST METHODS </h3>
+  list.append("_")     
+                  list.insert(2,_)
+                                    list.remove(_)
+                                                   list.pop()
+ list.clear()
+               list.sort() 
+                            list.reverse()</pre>
+                                      
