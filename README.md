@@ -25,5 +25,10 @@ string.isdigit()</pre></p>
 <b>f-string to take input and put it in a print line</b>
 print(f"good morning,{name}")
 
-        <h3> LIST <list3>
+        <h3> LIST </h3>
   list are containers to store values of any data type
+  list is heterogenous array
+  it is mutable
+  it can be sliced like string
+
+  <h3> LIST METHODS </h3>
