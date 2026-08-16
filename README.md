@@ -26,12 +26,12 @@ string.isdigit()</pre></p>
 print(f"good morning,{name}")</pre>
 
   <h3>LIST</h3>
-  <pre>list are containers to store values of any data type
-  list is heterogenous array
-  it is mutable
-  it can be sliced like string
-  it is written in square bracket
-  my_list = ["apple", "banana", 12.5]</pre>
+ list are containers to store values of any data type<br>
+  list is heterogenous array<br>
+  it is mutable<br>
+  it can be sliced like string<br>
+  it is written in square bracket<br>
+  my_list = ["apple", "banana", 12.5]<br>
                                                 
   <h3> LIST METHODS </h3>
  <pre> list.append("_")     
@@ -43,6 +43,18 @@ print(f"good morning,{name}")</pre>
                             list.reverse()</pre>
 
 <h3>TUPLE</h3>                           
-<pre>tuple is an immutable list
-it is written in small bracket ()
-my_list = ("apple", "banana", 12.5)</pre>
+tuple is an immutable list<br>
+it is written in small bracket ()<br>
+my_list = ("apple", "banana", 12.5)<br>
+b=()  #empty tuple<br>
+c=(1,)  #tuple with single element<br>
+
+<h3>TUPLE METHOD</h3>
+<pre>print(a)
+             print(type(a))
+                            print(a.index("ram"))    
+                                                  print(a.count(1))                
+print(a[0])
+            print(a[1:4])
+                          print(2 in a)
+                                        print(a*3)</pre>
