@@ -26,11 +26,12 @@ string.isdigit()</pre></p>
 print(f"good morning,{name}")</pre>
 
   <h3>LIST</h3>
-  list are containers to store values of any data type
+  <pre>list are containers to store values of any data type
   list is heterogenous array
   it is mutable
   it can be sliced like string
   it is written in square bracket
+  my_list = ["apple", "banana", 12.5]</pre>
                                                 
   <h3> LIST METHODS </h3>
  <pre> list.append("_")     
@@ -42,5 +43,6 @@ print(f"good morning,{name}")</pre>
                             list.reverse()</pre>
 
 <h3>TUPLE</h3>                           
-tuple is an immutable list
+<pre>tuple is an immutable list
 it is written in small bracket ()
+my_list = ("apple", "banana", 12.5)</pre>
