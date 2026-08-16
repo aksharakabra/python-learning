@@ -30,7 +30,8 @@ print(f"good morning,{name}")</pre>
   list is heterogenous array
   it is mutable
   it can be sliced like string
-
+  it is written in square bracket
+                                                
   <h3> LIST METHODS </h3>
  <pre> list.append("_")     
                   list.insert(2,_)
@@ -41,4 +42,5 @@ print(f"good morning,{name}")</pre>
                             list.reverse()</pre>
 
 <h3>TUPLE</h3>                           
-                                      
+tuple is an immutable list
+it is written in small bracket ()
