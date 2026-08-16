@@ -39,4 +39,6 @@ print(f"good morning,{name}")</pre>
  list.clear()
                list.sort() 
                             list.reverse()</pre>
+
+<h3>TUPLE</h3>                           
                                       
