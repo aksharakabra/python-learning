@@ -58,3 +58,7 @@ print(a[0])
             print(a[1:4])
                           print(2 in a)
                                         print(a*3)</pre>
+
+<h3>DICTIONARY</h3>
+A dictionary is a collection of key-value pairs, where each key is unique and maps to a specific value.<br>
+In Python, dictionaries are implemented as hash tables, allowing for efficient lookups, insertions, and deletions.
