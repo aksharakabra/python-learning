@@ -61,4 +61,12 @@ print(a[0])
 
 <h3>DICTIONARY</h3>
 A dictionary is a collection of key-value pairs, where each key is unique and maps to a specific value.<br>
-In Python, dictionaries are implemented as hash tables, allowing for efficient lookups, insertions, and deletions.
+In Python, dictionaries are implemented as hash tables, allowing for efficient lookups, insertions, and deletions.<br>
+It is mutable<br>
+It is written with curly bracket {} <br>
+<pre>>marks={
+    "akshara": 100,
+    "aou" :92,
+    "ceri": 65
+}</pre>
+
